@@ -74,11 +74,11 @@ This repository contains my **personal portfolio website** built to showcase my 
 
 ---
 
-## 💻 Coding Profiles
+## 💻 Profiles
 
 - **LeetCode:** [https://leetcode.com/u/PranaviGuddanti/](https://leetcode.com/u/PranaviGuddanti/)  
 - **GitHub:** [https://github.com/prans-cs55](https://github.com/prans-cs55)  
-- **CodeChef:** Placeholder – add link  
+    
 
 ---
 
